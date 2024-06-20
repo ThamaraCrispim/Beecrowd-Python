@@ -1,1 +1,1 @@
-Desafio proposto pelo site Beecrowd, resolvido com a linguagem Python. 🐍💻<3
+Desafio proposto pelo site Beecrowd, resolvido com a linguagem Python. 🐍💻
